@@ -1,3 +1,3 @@
-# flutter_recipy
+# Chicken Recipy App 
 
 A new Flutter project.
